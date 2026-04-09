@@ -1,0 +1,15 @@
+Test Accuracy: 0.9474
+
+Classification Report:
+              precision    recall  f1-score   support
+
+   malignant       0.93      0.93      0.93        42
+      benign       0.96      0.96      0.96        72
+
+    accuracy                           0.95       114
+   macro avg       0.94      0.94      0.94       114
+weighted avg       0.95      0.95      0.95       114
+
+Confusion Matrix:
+[[39  3]
+ [ 3 69]]
